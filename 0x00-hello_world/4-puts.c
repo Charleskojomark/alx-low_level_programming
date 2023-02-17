@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * commenting style in c
+ * main - Entry point
  *
- * another
+ * Return: always 0
  */
 int main(void)
 {
