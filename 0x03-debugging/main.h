@@ -4,6 +4,6 @@
 
 #include <stdio.h>
 
-void positive_or_negative(int i);
+extern void positive_or_negative(int i);
 
 #endif /* MAIN_H */
